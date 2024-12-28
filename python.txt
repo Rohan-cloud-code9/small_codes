@@ -1,0 +1,45 @@
+1. print is a function which as it is show the statement in output.
+2. variable is a name given to a memory location in a program.
+3. if you want to write a value or a sting you need to use this "value".
+4. for printing the variable we cant use these symbols "".
+5. we need to use comma if there is a number between strings.
+6. we can only use upper, lower number, _ symbols in the name of variable.
+7. WE use type in variable to know weather it is string , integer or float(8.99) basically tell you the data type in variable.
+8. data types -integer(9, -9, 0), string(statements), float(45.78), boolean(true and false), none.
+9. keywords are the words that have some fixed meaning and they cant be named as variable.
+10. it is a case sensitive language apple and Apple these are two different variables.
+11. floor is basically the gif of python.
+12. a//b is same as floor(a/b).
+13. % this is used to calculate the remainder. but ans will only be negative when the numerator is +ve and the denominator is -ve.
+14. # is used for commenting and this will not be read by pyhton. or """ """ this.
+15  input is a funnction used to take values from the user.
+16. if is a keyword for the condition.
+17. elif is checked if if" doesnt work (its the different condition).
+18 . else is the case when no condition work still we can print something.
+19. list is a data type that store values.
+20. in list index starts from zero and the data can be changed in list but not in string.
+21. list is changable and tuple is non changable.
+22. palindrome is a list which remains same either read from start or from end.
+23. dictionaries are used to store data in key:value pair.
+24. we cant add changable values in set.
+25. we use for loops for sequencial data
+26. range function returns a sequecial numbers starting from zero and common difference 
+27. you can make the function by either choosing parameters or not.
+28. functions are of two types built in and user defined functions.
+29. when a function calls itself repeatedly it is called recursion.
+30. "r" = open for reading
+31  "w" = open for writing the file
+32. "x" = create a file and open for writing
+33. "a" = open for writing and appending the file at the end if it exists
+34. "b" = used for opening binary file.
+35. "t" = used for opening text file (default)
+36. `r+''  Open for reading and writing but this does not create the file if it does not exist. and the pointer is at the start
+37. ``w+''  Open for reading and writing.  The file is created if it does not exist and evrything will be deleted
+38. ``a+''  Open for reading and writing.  The file is created if it does not exist
+39. module is a file that is written by another programmer and that contains useful functions we can use it by imprt filename
+40 ABSTRACTION - Hiding the implementation(unneccesary) details of a class and oly showing essesntial features to the user
+41. ENCAPSULATION - wrapping data and function into simgle unit(object)
+42. types of inheritence
+    (a) single inheritence
+    (b) multiple inheritence
+    (c) multi level inheritence
